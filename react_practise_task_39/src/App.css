@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+.task{
+  border: 1px solid green;
+  border-radius: 5px;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.taskModel{
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+}
